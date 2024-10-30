@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260156785531",
+    "project_id": "ieltstevapp",
+    "storage_bucket": "ieltstevapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260156785531:android:4bd659f38ef5626f0973de",
+        "android_client_info": {
+          "package_name": "com.example.ielts_tev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw13VNBY7SypNYAk7ZvhYRqLsG7uzoQNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
